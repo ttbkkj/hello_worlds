@@ -3,13 +3,7 @@
   <img src="./assets/dog.jpg" alt="dog dog">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <div>제가 만든 VUE 프로젝트 업로드</div>
-  <div>Welcome to my world</div>
-  <div>Welcome to my world</div>
-  <div>Welcome to my world</div>
-  <div>Welcome to my world</div>
-  <div>Welcome to my world</div>
-  <div>Welcome to my world</div>
-  <div>Welcome to my world</div>
+  <div>!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</div>
 </template>
 
 <script>
